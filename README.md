@@ -1,14 +1,6 @@
 # Automated ETL for Football Analytics: Player Valuation, Team Performance, and Transfer Trends
 
-**Team 4**:
-1. Abu Saleh 
-2. Tesfay Tesfay 
-
-**Contributions**:
-1. **Abu Saleh**: contributed to the project by helping develop the initial idea, selecting the dataset, and planning the overall process pipeline.
-
-2. **Tesfay Tesfay**: was responsible for designing and implementing the data pipeline, developing the entire codebase, testing the end-to-end workflow, writing the documentations and reports, and managing the repository structure. 
-
+**Author**: Tesfay Tesfay
 --- 
 
 ## **1. Introduction**
