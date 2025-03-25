@@ -5,7 +5,7 @@
 
 ## 2. Dataset Overview
 - **Source**: Kaggle (Fetched Weekly)
-- **ETL Pipeline Owner**: Team 4
+- **ETL Pipeline Owner**: Tesfay Tesfay
 - **Storage Layers**: Bronze → Silver → Gold
 - **Use Case**: Football analytics, player statistics, game events.
 
@@ -301,7 +301,7 @@
 - **Schema Enforcement**: Schema validation is performed during the update process to ensure compatibility with downstream systems. 
 
 ## 6. Ownership & Responsibilities
-- **Pipeline Owner**: Team 4.
+- **Pipeline Owner**: Tesfay Tesfay
 - **Monitoring & Alerts**: Schema drift alerts via Databricks Unity Catalog and Delta Live Tables.
 
 ## 7. Handling Breaking Changes
