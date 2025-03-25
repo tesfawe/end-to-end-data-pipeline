@@ -1,0 +1,52 @@
+[
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/appearance.csv",
+        "p_sink_folder" : "appearance",
+        "p_sink_file" : "appearance.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/club_games.csv",
+        "p_sink_folder" : "club_games",
+        "p_sink_file" : "club_games.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/clubs.csv",
+        "p_sink_folder" : "clubs",
+        "p_sink_file" : "clubs.csv"
+    },
+    {
+      	"p_relative_url" : "tesfawel/Data/refs/heads/main/data/competitions.csv",
+        "p_sink_folder" : "competitions",
+        "p_sink_file" : "competitions.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/game_events.csv",
+        "p_sink_folder" : "game_events",
+        "p_sink_file":"game_events.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/game_lineups.csv",
+        "p_sink_folder" : "game_lineups",
+        "p_sink_file" : "game_lineups.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/games.csv",
+        "p_sink_folder" : "games",
+        "p_sink_file" : "games.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/player_valuations.csv",
+        "p_sink_folder" : "player_valuations",
+        "p_sink_file" : "player_valuations.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/players.csv",
+        "p_sink_folder" : "players",
+        "p_sink_file" : "players.csv"
+    },
+    {
+        "p_relative_url" : "tesfawel/Data/refs/heads/main/data/transfers.csv",
+        "p_sink_folder" : "transfers",
+        "p_sink_file" : "transfers.csv"
+    }
+]

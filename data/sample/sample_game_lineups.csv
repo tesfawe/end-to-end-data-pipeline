@@ -1,0 +1,101 @@
+,game_lineups_id,date,game_id,player_id,club_id,player_name,type,position,number,team_captain
+0,80fe2f7286bd7e559d2920e38daf968e,2020-01-15,3199468,23960,273,Jérémy Morel,substitutes,Centre-Back,15,0
+1,95204cbb8600ff3290a10d925826ba6a,2020-01-15,3199468,23974,273,Romain Salin,substitutes,Goalkeeper,1,0
+2,b726965ea66feee2474c9fafa2e245d5,2020-01-15,3199468,57370,273,Damien Da Silva,starting_lineup,Centre-Back,3,1
+3,927d755d195f4d2927f05f2d9898adf2,2020-01-15,3199468,57372,1160,Lucas Deaux,starting_lineup,Defensive Midfield,8,0
+4,b600f8b1af04f5627371763c7da23736,2020-01-15,3199468,157501,273,M'Baye Niang,starting_lineup,Centre-Forward,11,0
+5,15e41f4232ff70fdaf73602bd233b3e8,2020-01-15,3199468,164912,1160,Loïck Landre,substitutes,Centre-Back,5,0
+6,d48238858a407785fb56e72a22d0ec6b,2020-01-15,3199468,184473,1160,Haris Duljevic,substitutes,Left Winger,17,0
+7,ed5c008ec84a575936ced2329a2579d8,2020-01-15,3199468,190338,1160,Anthony Briançon,starting_lineup,Centre-Back,23,1
+8,db777958cf546152dd787f975b33afdd,2020-01-15,3199468,202278,273,Flavien Tait,starting_lineup,Left Winger,20,0
+9,bc968b0e91c7b72d382dacbae49a50c5,2020-01-15,3199468,203507,273,Adrien Hunou,starting_lineup,Centre-Forward,23,0
+10,f4541797f8b8dead73e5651b0c97bdd2,2020-01-15,3199468,232895,1160,Zinedine Ferhat,starting_lineup,Right Winger,10,0
+11,4f6d0c27f86a6bd25f505ee61a4ad321,2020-01-15,3199468,234802,1160,Renaud Ripart,starting_lineup,Centre-Forward,20,0
+12,c46aa6108c11122bbc83de61929986bd,2020-01-15,3199468,255220,1160,Romain Philippoteaux,starting_lineup,Left Winger,7,0
+13,c563ecd6b9e13e0c8f7c346073b03ed3,2020-01-15,3199468,266359,273,Benjamin Bourigeaud,substitutes,Central Midfield,14,0
+14,dad815ff89b0bef066aff20420902a77,2020-01-15,3199468,282900,1160,Pablo Martínez,starting_lineup,Centre-Back,4,0
+15,b910e1a494da65d8e11cc83ba183b319,2020-01-15,3199468,297070,273,Hamari Traoré,starting_lineup,Right-Back,27,0
+16,f2b6025f4f235002a04bdee34690ab0d,2020-01-15,3199468,318507,1160,Paul Bernardoni,starting_lineup,Goalkeeper,30,0
+17,cb434373d51dacdce62b4c720b9aeae8,2020-01-15,3199468,341396,1160,Théo Valls,starting_lineup,Central Midfield,18,0
+18,52ed7f1a567f82064ad906f804d06263,2020-01-15,3199468,345041,1160,Vlatko Stojanovski,substitutes,Centre-Forward,11,0
+19,e527ad8610347fa99fe14f58349f5c46,2020-01-15,3199468,346291,273,James Léa Siliki,starting_lineup,Central Midfield,12,0
+20,69c0b803ff479565330c2c055dc17b6b,2020-01-15,3199468,347594,1160,Florian Miguel,starting_lineup,Left-Back,26,0
+21,840232b59a2b02a5adecf4c7e4705667,2020-01-15,3199468,353399,273,Romain Del Castillo,substitutes,Right Winger,22,0
+22,88a5191a862d34051fd7ae90b930ded5,2020-01-15,3199468,355369,273,Jordan,substitutes,Centre-Forward,9,0
+23,acf9681bf939831d343c453c58129536,2020-01-15,3199468,357072,273,Faitout Maouassa,starting_lineup,Left-Back,17,0
+24,c00b575e00a8ec694081b650857a3604,2020-01-15,3199468,378953,273,Gerzino Nyamsi,substitutes,Centre-Back,4,0
+25,f1b4e020049f57acd3634e29e414f1e1,2020-01-15,3199468,378954,273,Joris Gnagnon,starting_lineup,Centre-Back,21,0
+26,fba3b490d98cd068c1bdb0ba90d387a3,2020-01-15,3199468,391376,1160,Lamine Fomba,starting_lineup,Central Midfield,12,0
+27,571dba7c35aac8ac7dac0442c877f6e0,2020-01-15,3199468,411295,273,Raphinha,starting_lineup,Right Winger,7,0
+28,6ab0df60f4ab31204fd1bc430c52e4ef,2020-01-15,3199468,412092,1160,Gaëtan Paquiez,substitutes,Right-Back,15,0
+29,3104e6537e70900837ecd3821c13224d,2020-01-15,3199468,434358,1160,Sofiane Alakouch,starting_lineup,Right-Back,29,0
+30,ef7cede567d82714ca22e6299988d94a,2020-01-15,3199468,442531,273,Edouard Mendy,starting_lineup,Goalkeeper,16,0
+31,3c9981db53be88868a7aac71e5057747,2020-01-15,3199468,463613,273,Yann Gboho,substitutes,Attacking Midfield,34,0
+32,077460df294295888ffb426fcfa0e256,2020-01-15,3199468,476079,1160,Lucas Dias,substitutes,Goalkeeper,16,0
+33,6c0a6953ef6a4c79480bc4017cd8b71f,2020-01-15,3199468,482072,1160,Kévin Denkey,substitutes,Centre-Forward,27,0
+34,0c607b39e7aff36c92e4a09124032da6,2020-01-15,3199468,640428,273,Eduardo Camavinga,starting_lineup,Defensive Midfield,18,0
+35,9015549915d81868b75b2c39910f9de8,2020-01-15,3199468,707317,1160,Antoine Valério,substitutes,Central Midfield,14,0
+36,2773229f15df84842a7c27c9ce4e88ae,2020-01-15,3199499,8806,162,Cesc Fàbregas,starting_lineup,Attacking Midfield,4,0
+37,cbecee5dd6f912421b4fc77760f910e9,2020-01-15,3199499,27941,162,Danijel Subasic,substitutes,Goalkeeper,1,0
+38,3c761dded6fc6d9d86371c5f3b5d46ef,2020-01-15,3199499,29241,583,Thiago Silva,starting_lineup,Centre-Back,2,1
+39,12e88ef534378263685d87d810f5bb11,2020-01-15,3199499,45320,583,Ángel Di María,starting_lineup,Right Winger,11,0
+40,d2ee274dca04d6a2bf71d4434e8b427c,2020-01-15,3199499,46104,162,Stevan Jovetic,substitutes,Centre-Forward,10,0
+41,fbb6d71acb8fe99f5d3c1e46a1dca3ec,2020-01-15,3199499,46552,162,Kamil Glik,starting_lineup,Centre-Back,25,1
+42,5d4d45bc47b0a85ddb4f183bbc6843ff,2020-01-15,3199499,56810,162,Adrien Silva,substitutes,Central Midfield,8,0
+43,b7d1390116c65c4171ef335d7e22db72,2020-01-15,3199499,68290,583,Neymar,starting_lineup,Left Winger,10,0
+44,a466295d2462104ffd5050c5d575f902,2020-01-15,3199499,68863,583,Mauro Icardi,starting_lineup,Centre-Forward,18,0
+45,75195a5bc916f1028f774bb9d7077bff,2020-01-15,3199499,74230,583,Pablo Sarabia,substitutes,Attacking Midfield,19,0
+46,ea6436bfb436d2310d25a3ca9762fad3,2020-01-15,3199499,79422,583,Keylor Navas,starting_lineup,Goalkeeper,1,0
+47,9ce29f44ef772813d74f9e744e3393a9,2020-01-15,3199499,85148,583,Julian Draxler,substitutes,Right Winger,23,0
+48,6e4ae26f48d12160ec31453f5e15e32d,2020-01-15,3199499,99343,583,Ander Herrera,substitutes,Central Midfield,21,0
+49,acd98eda04a8325cc075c96b33065eda,2020-01-15,3199499,102558,583,Marco Verratti,substitutes,Central Midfield,6,0
+50,41cc6801f01747b4e72c2791ed099eea,2020-01-15,3199499,126665,583,Idrissa Gueye,starting_lineup,Defensive Midfield,27,0
+51,e9caf99f67cfb0d6b942f65f35de0fe8,2020-01-15,3199499,126710,583,Layvin Kurzawa,starting_lineup,Left-Back,20,0
+52,965df298b35e867d30d2381f07ab875d,2020-01-15,3199499,127181,162,Benjamin Lecomte,starting_lineup,Goalkeeper,40,0
+53,5c3c6505f8c60e3620981683baee62dc,2020-01-15,3199499,146854,162,Wissam Ben Yedder,starting_lineup,Centre-Forward,9,0
+54,2bfde1aaf3c0bee0ec049ebecdbd9d18,2020-01-15,3199499,182618,162,Tiemoué Bakayoko,starting_lineup,Central Midfield,6,0
+55,f7a9a6b332a172bc1cf54a877166fa4f,2020-01-15,3199499,202591,162,Benjamin Henrichs,starting_lineup,Right-Back,39,0
+56,d62947d5e5cd8df1df1a6b0ba802e567,2020-01-15,3199499,203746,162,Ruben Aguilar,substitutes,Right-Back,12,0
+57,448a7f8736b94625d2ec0b10c5935161,2020-01-15,3199499,207302,583,Sergio Rico,substitutes,Goalkeeper,16,0
+58,eda48e2e58679b0ebc15f190f057a817,2020-01-15,3199499,228948,583,Thilo Kehrer,substitutes,Centre-Back,4,0
+59,4e80abd73202e729cc461356b010564b,2020-01-15,3199499,229005,583,Abdou Diallo,substitutes,Centre-Back,22,0
+60,7684dafdc4ef2a4d45ecefa9f771f270,2020-01-15,3199499,238752,162,Keita Baldé,starting_lineup,Left Winger,14,0
+61,cacf737fb308f7a36d507e07c593ed81,2020-01-15,3199499,249730,162,Guillermo Maripán,starting_lineup,Centre-Back,3,0
+62,fa01be64001952bde9f5871b84312f76,2020-01-15,3199499,257448,162,Gelson Martins,starting_lineup,Right Winger,11,0
+63,6aa3bba01416e2225bbd1c6abde6a082,2020-01-15,3199499,263918,162,Aleksandr Golovin,starting_lineup,Central Midfield,17,0
+64,e3426b834374df0b61760436693e33e2,2020-01-15,3199499,264956,162,Jean-Kévin Augustin,substitutes,Right Winger,22,0
+65,455678bac09840d43fcab5ccdd752aa7,2020-01-15,3199499,282041,583,Presnel Kimpembe,starting_lineup,Centre-Back,3,0
+66,39b5246424eca15cb7d6d4e630154474,2020-01-15,3199499,296422,162,Fodé Ballo-Touré,starting_lineup,Left-Back,2,0
+67,d7ccc020a1f3f972efcdbcbd66aadb56,2020-01-15,3199499,329723,162,Gil Dias,substitutes,Left Midfield,31,0
+68,0df0c2b92d65343897f444ff4bcd74fa,2020-01-15,3199499,342229,583,Kylian Mbappé,starting_lineup,Centre-Forward,7,0
+69,0a2701d18bd1e44cd91ba174d0e4a42d,2020-01-15,3199499,460629,583,Colin Dagba,starting_lineup,Right-Back,31,0
+70,fbf23e2de457ad1cc7498ed6f6eb41a3,2020-01-15,3199499,463603,162,Benoît Badiashile,substitutes,Centre-Back,32,0
+71,5d156b0ba31887a63b879e4dc52f9238,2020-01-15,3199499,538996,583,Tanguy Nianzou,starting_lineup,Defensive Midfield,33,0
+72,347aea191e868a338ce01d91120a49ec,2020-01-15,3199512,27305,1416,Mathieu Bodmer,substitutes,Defensive Midfield,24,0
+73,73eab26671036b46fea8bdc320b5f9dd,2020-01-15,3199512,28335,1416,Christophe Jallet,starting_lineup,Left-Back,13,0
+74,4b934adf6436902c4fec8449c6a22326,2020-01-15,3199512,39918,1416,Régis Gurtner,starting_lineup,Goalkeeper,1,1
+75,e4b1a234de1262277ed4c84abc58d552,2020-01-15,3199512,45624,1416,Aurélien Chedjou,starting_lineup,Centre-Back,27,0
+76,ea9e65aacd1c4ad6bdac2c69be49e69e,2020-01-15,3199512,57134,1416,Matthieu Dreyer,substitutes,Goalkeeper,16,0
+77,86fe7f96d200767d8ad877b534f81cfd,2020-01-15,3199512,126683,1421,Tristan Dingomé,starting_lineup,Attacking Midfield,20,0
+78,585ce521fe19c2f6a906a1d3209173e7,2020-01-15,3199512,127182,1416,Thomas Monconduit,substitutes,Defensive Midfield,6,0
+79,a6912b290d1e589a84af29b2d847b61e,2020-01-15,3199512,129990,1421,Hyun-jun Suk,substitutes,Centre-Forward,10,0
+80,81854b06e584cc4a49a9147fd13d2070,2020-01-15,3199512,131101,1416,Stiven Mendoza,starting_lineup,Left Winger,20,0
+81,7824e530ecb81eef185372a022ac8b64,2020-01-15,3199512,168933,1416,Eddy Gnahoré,starting_lineup,Defensive Midfield,5,0
+82,b9892f10b533d18d73fd26c8bf18e369,2020-01-15,3199512,190263,1421,Predrag Rajkovic,starting_lineup,Goalkeeper,1,0
+83,3759d1a3d27a674c9efe08bd79aae08a,2020-01-15,3199512,192492,1416,Jordan Lefort,substitutes,Centre-Back,25,0
+84,638466e8a6b9e8a657138e242aa3fec6,2020-01-15,3199512,192774,1416,Moussa Konaté,starting_lineup,Centre-Forward,15,0
+85,759ef7685420baa2e4c4bc4ba02f4e52,2020-01-15,3199512,199704,1421,Yunis Abdelhamid,starting_lineup,Centre-Back,5,1
+86,a54efd0f7351194ebdc6c7a9700f46ee,2020-01-15,3199512,215114,1421,Thomas Foket,starting_lineup,Right-Back,32,0
+87,062f715b76df2efcc9c5fc8f122fb386,2020-01-15,3199512,230166,1416,Haitam Aleesami,substitutes,Left-Back,14,0
+88,a5187889236f0068aa6be5b3cf1fdf2f,2020-01-15,3199512,236041,1416,Alexis Blin,substitutes,Defensive Midfield,17,0
+89,c148500c66144c388ac135f856d8ac90,2020-01-15,3199512,237669,1421,Dereck Kutesa,starting_lineup,Right Midfield,8,0
+90,18e0aaf9dc76b798b3230b861ed78720,2020-01-15,3199512,240892,1416,Bongani Zungu,starting_lineup,Defensive Midfield,8,0
+91,e9bca2c49b263335c215c212dce90804,2020-01-15,3199512,240897,1416,Arturo Calabresi,starting_lineup,Right-Back,3,0
+92,682c9296f50c801a04a1be9f2d113154,2020-01-15,3199512,243606,1421,Anastasios Donis,substitutes,Right Winger,9,0
+93,ad2f9bf586761621708dd049b280fbc5,2020-01-15,3199512,270541,1416,Serhou Guirassy,starting_lineup,Centre-Forward,9,0
+94,05933a36afa0e9b532b83af68e571f71,2020-01-15,3199512,290017,1421,Hassane Kamara,substitutes,Left Midfield,13,0
+95,bc5fc183a48afaa9a0b8ca0c8c5adde8,2020-01-15,3199512,290746,1421,Moreto Cassamá,starting_lineup,Central Midfield,23,0
+96,5dcf8fa7dc302a00af56c59160838f35,2020-01-15,3199512,307807,1421,Dario Maresic,substitutes,Centre-Back,29,0
+97,18c628f323f9108a7ab59f9e35268ff5,2020-01-15,3199512,316137,1421,Moussa Doumbia,starting_lineup,Left Winger,25,0
+98,9dfd4ff2d3cbfb114d9809dffeb2cb47,2020-01-15,3199512,332305,1416,Juan Otero,substitutes,Left Winger,11,0
+99,d53444590c35847f86075a26ac7bcbde,2020-01-15,3199512,364861,1416,Fousseni Diabaté,starting_lineup,Right Winger,28,0

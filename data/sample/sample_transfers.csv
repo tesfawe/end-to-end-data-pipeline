@@ -1,0 +1,101 @@
+,player_id,transfer_date,transfer_season,from_club_id,to_club_id,from_club_name,to_club_name,transfer_fee,market_value_in_eur,player_name
+0,16136,2026-07-01,26/27,417,123,OGC Nice,Retired,,500000.0,Dante
+1,195778,2026-06-30,25/26,79,27,VfB Stuttgart,Bayern Munich,0.0,12000000.0,Alexander Nübel
+2,569033,2026-06-30,25/26,39,27,1.FSV Mainz 05,Bayern Munich,0.0,4000000.0,Armindo Sieb
+3,626913,2026-06-30,25/26,398,380,Lazio,Salernitana,0.0,15000000.0,Boulaye Dia
+4,887834,2026-06-30,25/26,979,1023,Moreirense ,Palmeiras,0.0,1000000.0,Michel
+5,1047109,2026-06-30,25/26,2672,265,APO Levadiakos,Panathinaikos,0.0,200000.0,Georgios Katris
+6,128223,2026-01-20,25/26,141,5,Galatasaray,AC Milan,0.0,13000000.0,Álvaro Morata
+7,360791,2025-12-31,25/26,6418,1030,Panetolikos,Argentinos Jrs.,0.0,1200000.0,Lucas Chaves
+8,582513,2025-12-31,25/26,511,2407,Dundee FC,Monterrey,0.0,300000.0,Víctor López
+9,589527,2025-12-31,25/26,49702,1029,Pari NN,Vélez Sarsfield,0.0,800000.0,Thiago Vecino
+10,624920,2025-12-31,25/26,63007,53646,LNZ Cherkasy,Polissya,0.0,800000.0,Béni Makouana
+11,773961,2025-12-31,25/26,85465,48726,Karpaty Lviv,Rukh Lviv,0.0,800000.0,Oleg Fedor
+12,905184,2025-12-31,25/26,6418,30120,Panetolikos,AE Kifisias,0.0,350000.0,Andrews Tetteh
+13,936825,2025-12-31,25/26,85465,48726,Karpaty Lviv,Rukh Lviv,0.0,3000000.0,Ilya Kvasnytsya
+14,1029207,2025-12-31,25/26,3592,28292,Kryvbas,Angostura FC,0.0,450000.0,Gleiker Mendoza
+15,1105073,2025-12-31,25/26,6992,20960,Chornomorets,Plaza Amador,0.0,125000.0,Anel Ryce
+16,1126427,2025-12-31,25/26,3592,59386,Kryvbas,La Guaira U20,0.0,25000.0,Maiken González
+17,1171460,2025-12-31,25/26,511,110461,Dundee FC,Monterrey U23,0.0,400000.0,César Garza
+18,1038821,2025-07-31,25/26,3837,11204,Fredrikstad,Stade Reims B,0.0,100000.0,Fallou Fall
+19,107612,2025-07-08,25/26,60949,3641,Volos NPS,Degerfors,0.0,250000.0,Daniel Sundgren
+20,34784,2025-07-01,25/26,467,123,NEC Nijmegen,Retired,,150000.0,Lasse Schöne
+21,42710,2025-07-01,25/26,1096,123,Royal Antwerp,Retired,,2200000.0,Toby Alderweireld
+22,55508,2025-07-01,25/26,269,515,Holstein Kiel,Without Club,,500000.0,Lewis Holtby
+23,57796,2025-07-01,24/25,2036,515,Heidenheim,Without Club,,250000.0,Vitus Eicher
+24,58995,2025-07-01,25/26,86,515,Werder Bremen,Without Club,,1000000.0,Anthony Jung
+25,69642,2025-07-01,25/26,190,515,FC Copenhagen,Without Club,0.0,200000.0,Nicolai Boilesen
+26,96718,2025-07-01,25/26,621,123,Athletic,Retired,,1500000.0,Óscar de Marcos
+27,126610,2025-07-01,25/26,5817,362,Sönderjyske,Akademisk BK,0.0,50000.0,Marc Dal Hende
+28,149729,2025-07-01,25/26,294,114,Benfica,Besiktas,2000000.0,2800000.0,João Mário
+29,202228,2025-07-01,25/26,86,159,Werder Bremen,Red Star,0.0,4500000.0,Milos Veljkovic
+30,203507,2025-07-01,25/26,1420,515,Angers SCO,Without Club,,500000.0,Adrien Hunou
+31,229817,2025-07-01,25/26,1083,515,Rostov,Without Club,,1700000.0,Ali Sowe
+32,234811,2025-07-01,25/26,150,336,Real Betis,Sporting CP,4700000.0,5000000.0,Rui Silva
+33,263236,2025-07-01,25/26,826,148,Lens,Tottenham,25000000.0,25000000.0,Kevin Danso
+34,278343,2025-07-01,25/26,167,114,FC Augsburg,Besiktas,5000000.0,8000000.0,Felix Uduokhai
+35,283994,2025-07-01,25/26,39,3911,1.FSV Mainz 05,Stade Brestois,2000000.0,4000000.0,Ludovic Ajorque
+36,284883,2025-07-01,25/26,720,1075,FC Porto,SC Braga,2700000.0,6000000.0,Fran Navarro
+37,287579,2025-07-01,25/26,430,36,Fiorentina,Fenerbahce,12000000.0,22000000.0,Sofyan Amrabat
+38,300716,2025-07-01,25/26,11,371,Arsenal,Celtic,0.0,10000000.0,Kieran Tierney
+39,301238,2025-07-01,25/26,2919,506,Monza,Juventus,14300000.0,18000000.0,Michele Di Gregorio
+40,335209,2025-07-01,25/26,190,18,FC Copenhagen,Bor. M'gladbach,0.0,4500000.0,Kevin Diks
+41,344107,2025-07-01,25/26,370,903,Aberdeen FC,Hibernian FC,0.0,1200000.0,Jamie McGrath
+42,375137,2025-07-01,25/26,162,141,Monaco,Galatasaray,8000000.0,8000000.0,Ismail Jakobs
+43,410897,2025-07-01,25/26,1053,515,Aalborg BK,Without Club,,1000000.0,Lars Kramer
+44,422986,2025-07-01,25/26,1420,515,Angers SCO,Without Club,,200000.0,Halid Sabanovic
+45,430280,2025-07-01,25/26,506,607,Juventus,Venezia,3500000.0,6000000.0,Hans Nicolussi Caviglia
+46,480116,2025-07-01,25/26,762,506,Newcastle,Juventus,17200000.0,18000000.0,Lloyd Kelly
+47,483063,2025-07-01,25/26,7732,6890,Al-Ettifaq,Basaksehir,,4800000.0,Berat Özdemir
+48,485960,2025-07-01,25/26,3911,273,Stade Brestois,Stade Rennais,12000000.0,10000000.0,Lilian Brassier
+49,486031,2025-07-01,25/26,430,506,Fiorentina,Juventus,28100000.0,35000000.0,Nico González
+50,490423,2025-07-01,25/26,409,1047,RB Salzburg,Como,5000000.0,3000000.0,Ignace Van der Brempt
+51,499721,2025-07-01,25/26,964,537,Zenit S-Pb,Botafogo,20000000.0,20000000.0,Wendel
+52,542762,2025-07-01,25/26,1177,515,Silkeborg IF,Without Club,,1200000.0,Anders Klynge
+53,569383,2025-07-01,25/26,162,167,Monaco,FC Augsburg,5000000.0,7000000.0,Chrislain Matsima
+54,624690,2025-07-01,25/26,18,12,Bor. M'gladbach,AS Roma,18000000.0,26000000.0,Manu Koné
+55,624751,2025-07-01,25/26,511,124,Dundee FC,Rangers,,1500000.0,Lyall Cameron
+56,627228,2025-07-01,25/26,281,16,Man City,Bor. Dortmund,25000000.0,25000000.0,Yan Couto
+57,695225,2025-07-01,25/26,206,515,Bröndby IF,Without Club,,150000.0,Ludwig Vraa-Jensen
+58,746910,2025-07-01,25/26,3948,82,Union SG,VfL Wolfsburg,15000000.0,22000000.0,Mohamed Amoura
+59,800919,2025-07-01,25/26,8815,206,Bröndby IF U19,Bröndby IF,,,Lukas Larsen
+60,801420,2025-07-01,25/26,6945,465,Palace U21,St. Mirren,0.0,450000.0,Killian Phillips
+61,814491,2025-07-01,25/26,596,968,Gamba Osaka,KVC Westerlo,,700000.0,Isa Sakamoto
+62,822959,2025-07-01,25/26,533,27,TSG Hoffenheim,Bayern Munich,0.0,12000000.0,Tom Bischof
+63,892160,2025-07-01,25/26,447,148,Hajduk Split,Tottenham,11000000.0,10000000.0,Luka Vuskovic
+64,894050,2025-07-01,25/26,5619,306,Aalesund,Heerenveen,500000.0,1500000.0,Nikolai Hopland
+65,926694,2025-07-01,25/26,13,23826,Atlético Madrid,RB Leipzig,20000000.0,25000000.0,Arthur Vermeeren
+66,933900,2025-07-01,25/26,180,667,Southampton,R. Strasbourg,7000000.0,300000.0,Samuel Amo-Ameyaw
+67,957874,2025-07-01,25/26,679,1467,Athletico-PR,Göztepe,2500000.0,3700000.0,Rômulo
+68,1003295,2025-07-01,25/26,15642,1177,Silkeborg U19,Silkeborg IF,,,Julius Nielsen
+69,1043003,2025-07-01,25/26,10484,405,Kasimpasa,Aston Villa,7000000.0,4500000.0,Yasin Özcan
+70,33862,2025-06-30,24/25,10484,968,Kasimpasa,KVC Westerlo,0.0,300000.0,Sinan Bolat
+71,39125,2025-06-30,24/25,1244,449,CD Leganés,Trabzonspor,0.0,1800000.0,Borna Barisic
+72,59047,2025-06-30,24/25,101362,53646,PFK Zvyagel,Polissya,0.0,100000.0,Vasyl Grytsuk
+73,66100,2025-06-30,24/25,12321,131,Girona,Barcelona,0.0,1800000.0,Oriol Romeu
+74,80444,2025-06-30,24/25,978,405,Vasco da Gama,Aston Villa,0.0,7500000.0,Philippe Coutinho
+75,81173,2025-06-30,24/25,409,23826,RB Salzburg,RB Leipzig,0.0,2000000.0,Janis Blaswich
+76,88682,2025-06-30,24/25,749,506,FC Empoli,Juventus,0.0,1000000.0,Mattia De Sciglio
+77,88706,2025-06-30,24/25,1038,8970,Sampdoria,Frosinone,0.0,800000.0,Simone Romagnoli
+78,95424,2025-06-30,24/25,5,281,AC Milan,Man City,0.0,10000000.0,Kyle Walker
+79,111426,2025-06-30,24/25,252,455,Genoa,FC Rapid,0.0,650000.0,Benjamin Siegrist
+80,111819,2025-06-30,24/25,11,989,Arsenal,Bournemouth,0.0,2000000.0,Neto
+81,115763,2025-06-30,24/25,1467,276,Göztepe,Hellas Verona,0.0,700000.0,Koray Günter
+82,122797,2025-06-30,24/25,969,8850,Montpellier,MC Algiers,0.0,2000000.0,Andy Delort
+83,124555,2025-06-30,24/25,416,430,Torino,Fiorentina,0.0,2000000.0,Cristiano Biraghi
+84,126737,2025-06-30,24/25,3709,150,Getafe,Real Betis,0.0,4000000.0,Juanmi
+85,131951,2025-06-30,24/25,332,276,Bari,Hellas Verona,0.0,950000.0,Kevin Lasagna
+86,144244,2025-06-30,24/25,190,1390,FC Copenhagen,Cagliari Calcio,0.0,2800000.0,Pantelis Hatzidiakos
+87,148928,2025-06-30,24/25,368,13,Sevilla FC,Atlético Madrid,0.0,3500000.0,Saúl Ñíguez
+88,149729,2025-06-30,24/25,114,294,Besiktas,Benfica,0.0,2800000.0,João Mário
+89,149829,2025-06-30,24/25,415,36,Toulouse,Fenerbahce,0.0,1800000.0,Miha Zajc
+90,161011,2025-06-30,24/25,36,506,Fenerbahce,Juventus,0.0,6000000.0,Filip Kostić
+91,162959,2025-06-30,24/25,610,506,Ajax,Juventus,0.0,3500000.0,Daniele Rugani
+92,164913,2025-06-30,24/25,1091,294,PAOK Salonika,Benfica,0.0,2500000.0,Soualiho Meïté
+93,167727,2025-06-30,24/25,294,1047,Benfica,Como,0.0,2000000.0,Andrea Belotti
+94,167799,2025-06-30,24/25,244,148,Marseille,Tottenham,0.0,20000000.0,Pierre-Emile Højbjerg
+95,168157,2025-06-30,24/25,58,405,RSC Anderlecht,Aston Villa,0.0,6000000.0,Leander Dendoncker
+96,170481,2025-06-30,24/25,2919,398,Monza,Lazio,0.0,500000.0,Jean-Daniel Akpa Akpro
+97,170527,2025-06-30,24/25,148,23826,Tottenham,RB Leipzig,0.0,15000000.0,Timo Werner
+98,174694,2025-06-30,24/25,4294,11282,Farense,Alanyaspor,0.0,2000000.0,Rony Lopes
+99,174915,2025-06-30,24/25,968,13365,KVC Westerlo,CR Belouizdad,0.0,900000.0,Islam Slimani

@@ -1,0 +1,52 @@
+[
+    {
+        "file_name": "appearance.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/appearance",
+        "table_name": "bronze.appearance"
+    },
+    {
+        "file_name": "club_games.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/club_games",
+        "table_name": "bronze.club_games"
+    },
+    {
+        "file_name": "clubs.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/clubs",
+        "table_name": "bronze.clubs"
+    },
+    {
+        "file_name": "competitions.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/competitions",
+        "table_name": "bronze.competitions"
+    },
+    {
+        "file_name": "game_events.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/game_events",
+        "table_name": "bronze.game_events"
+    },
+    {
+        "file_name": "game_lineups.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/game_lineups",
+        "table_name": "bronze.game_lineups"
+    },
+    {
+        "file_name": "games.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/games",
+        "table_name": "bronze.games"
+    },
+    {
+        "file_name": "players.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/players",
+        "table_name": "bronze.players"
+    },
+    {
+        "file_name": "player_valuations.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/player_valuations",
+        "table_name": "bronze.player_valuations"
+    },
+    {
+        "file_name": "transfers.csv",
+        "file_path": "abfss://bronze@myddcastorage.dfs.core.windows.net/transfers",
+        "table_name": "bronze.transfers"
+    }
+]
