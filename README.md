@@ -1,6 +1,9 @@
 # Automated ETL for Football Analytics: Player Valuation, Team Performance, and Transfer Trends
 
-**Author**: Tesfay Tesfay
+---
+
+- **Author**: Tesfay Tesfay
+
 --- 
 
 ## **1. Introduction**
